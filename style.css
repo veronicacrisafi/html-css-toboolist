@@ -13,7 +13,7 @@ font-family: "Roboto", sans-serif;
     border-radius: 10px 10px 10px 10px;
     background-color: #47adf1;
     color: white;
-    width: 11%;
+    width: 13%;
     height: 40px;
     font-family: "Roboto", sans-serif;
     border-style: none;
@@ -22,14 +22,25 @@ font-family: "Roboto", sans-serif;
 
 #add-section{
     border-radius: 10px 10px 10px 10px;
-    background-color: white;
-    color:grey;
+    background-color:white;
+    color:darkgray;
     width: 150px;
     height: 40px;
     font-family: "Roboto", sans-serif;
-    
-
+   
 }
 
-/*-- sistemare container --*/
+/*-- container --*/
+.container{
+    background-color: white;
+    margin-left: 230px;
+    margin-top:50px;
+}
 
+.html{
+    background-color: darkgray;
+}
+/*-- sections style--*/
+.sections{
+font-family: "Roboto", sans-serif;
+}
