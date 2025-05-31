@@ -1,7 +1,7 @@
 /*-- insert font size and family Toboolist--*/
 
 #Toboolist{
-
+background-color: white;
 font-size: 50px;
 font-family: "Roboto", sans-serif;
  
@@ -10,8 +10,8 @@ font-family: "Roboto", sans-serif;
 /*-- button Add Task--*/
 
 #add-task{
-    border-radius: 18%;
-    background-color: cornflowerblue;
+    border-radius: 10px 10px 10px 10px;
+    background-color: #47adf1;
     color: white;
     width: 11%;
     height: 40px;
@@ -21,10 +21,10 @@ font-family: "Roboto", sans-serif;
 }
 
 #add-section{
-    border-radius: 18%;
+    border-radius: 10px 10px 10px 10px;
     background-color: white;
     color:grey;
-    width: 11%;
+    width: 150px;
     height: 40px;
     font-family: "Roboto", sans-serif;
     
@@ -32,8 +32,4 @@ font-family: "Roboto", sans-serif;
 }
 
 /*-- sistemare container --*/
-.container{
 
-
-    
-}
