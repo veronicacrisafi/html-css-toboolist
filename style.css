@@ -20,10 +20,14 @@ font-family: "Roboto", sans-serif;
     
 }
 
+/*-- button add section--*/
+
 #add-section{
     border-radius: 10px 10px 10px 10px;
-    background-color:white;
-    color:darkgray;
+    border-color: darkgray;
+    border-style: solid;
+    color: darkgray;
+    background-color: white;
     width: 150px;
     height: 40px;
     font-family: "Roboto", sans-serif;
