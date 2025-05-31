@@ -7,4 +7,33 @@ font-family: "Roboto", sans-serif;
  
 }
 
+/*-- button Add Task--*/
 
+#add-task{
+    border-radius: 18%;
+    background-color: cornflowerblue;
+    color: white;
+    width: 11%;
+    height: 40px;
+    font-family: "Roboto", sans-serif;
+    border-style: none;
+    
+}
+
+#add-section{
+    border-radius: 18%;
+    background-color: white;
+    color:grey;
+    width: 11%;
+    height: 40px;
+    font-family: "Roboto", sans-serif;
+    
+
+}
+
+/*-- sistemare container --*/
+.container{
+
+
+    
+}
