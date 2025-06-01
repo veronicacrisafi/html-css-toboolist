@@ -1,3 +1,9 @@
+.header{
+    background-color: white;
+    max-width: 2400px;
+}
+
+
 /*-- insert font size and family Toboolist--*/
 
 #Toboolist{
@@ -6,6 +12,7 @@ font-size: 50px;
 font-family: "Roboto", sans-serif;
  
 }
+
 
 /*-- button Add Task--*/
 
@@ -17,6 +24,7 @@ font-family: "Roboto", sans-serif;
     height: 40px;
     font-family: "Roboto", sans-serif;
     border-style: none;
+    margin-left:80px;
     
 }
 
@@ -38,16 +46,23 @@ font-family: "Roboto", sans-serif;
     background-color: white;
     margin-left: 230px;
     margin-right: 230px;
-    margin-top:50px;
-    margin-bottom: 50px;
+    margin-top:40px;
+    margin-bottom: 20px;
+    border-radius:10px 10px 10px 10px;
+    max-width: 2400px;
+    padding:30px;
+    
 }
 
-.html{
-    background-color: darkgray;
+.body{
+    background-color:#f6f8f9;
+    margin:0px;
 }
 /*-- sections style--*/
 .sections{
-font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
+    margin-left:70px;
+
 }
 
 /*-- section list style--*/
@@ -58,6 +73,9 @@ font-family: "Roboto", sans-serif;
 
 /*-- checkbox--*/
 .check-box{
+    margin-left:80px;
+    margin-bottom: 20px;
+    
     
 }
 /*-- button editorial*/
@@ -74,9 +92,9 @@ font-family: "Roboto", sans-serif;
     border-radius: 10px 10px 10px 10px;
     border-style: none;
     width:90px;
-height: 30px;
-background-color: #9c72e4;
-color: white;
+    height: 30px;
+    background-color: #9c72e4;
+    color: white;
 
 }
 
@@ -92,12 +110,12 @@ color: white;
 }
 /*-- button Mobile --*/
 .mobile{
-border-radius: 10px 10px 10px 10px;
-border-style:none;
-width:70px;
-height:30px;
-background-color:#f29e33;
-color:white;
+    border-radius: 10px 10px 10px 10px;
+    border-style:none;
+    width:70px;
+    height:30px;
+    background-color:#f29e33;
+    color:white;
 }
 /*-- website button--*/
 .website{
