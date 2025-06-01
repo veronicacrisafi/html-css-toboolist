@@ -10,6 +10,7 @@
 background-color: white;
 font-size: 50px;
 font-family: "Roboto", sans-serif;
+
  
 }
 
@@ -24,7 +25,7 @@ font-family: "Roboto", sans-serif;
     height: 40px;
     font-family: "Roboto", sans-serif;
     border-style: none;
-    margin-left:80px;
+  
     
 }
 
@@ -44,24 +45,27 @@ font-family: "Roboto", sans-serif;
 /*-- container --*/
 .container{
     background-color: white;
-    margin-left: 230px;
-    margin-right: 230px;
-    margin-top:40px;
-    margin-bottom: 20px;
     border-radius:10px 10px 10px 10px;
     max-width: 2400px;
-    padding:30px;
+    margin-left:160px;
+    margin-top:50px;
+    margin-right:160px;
+    margin-bottom:30px;
+    padding:60px;
+    padding-top: 30px;
+    
+    
     
 }
 
-.body{
+.the-body{
     background-color:#f6f8f9;
     margin:0px;
 }
 /*-- sections style--*/
 .sections{
     font-family: "Roboto", sans-serif;
-    margin-left:70px;
+  
 
 }
 
@@ -71,13 +75,7 @@ font-family: "Roboto", sans-serif;
     font-family: "Roboto", sans-serif;
 }
 
-/*-- checkbox--*/
-.check-box{
-    margin-left:80px;
-    margin-bottom: 20px;
-    
-    
-}
+
 /*-- button editorial*/
 .editorial{
     border-radius:10px 10px 10px 10px;
@@ -135,3 +133,4 @@ font-family: "Roboto", sans-serif;
     width:60px;
     height:30px;
 }
+
