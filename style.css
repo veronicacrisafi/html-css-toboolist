@@ -99,3 +99,12 @@ height:30px;
 background-color:#f29e33;
 color:white;
 }
+/*-- website button--*/
+.website{
+    border-style:none;
+    border-radius: 10px 10px 10px 10px;
+    color:white;
+    background-color:#d863a1;
+    width:80px;
+    height:30px;
+}
