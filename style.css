@@ -55,3 +55,47 @@ font-family: "Roboto", sans-serif;
 .section-list{
     font-family: "Roboto", sans-serif;
 }
+
+/*-- checkbox--*/
+.check-box{
+    
+}
+/*-- button editorial*/
+.editorial{
+    border-radius:10px 10px 10px 10px;
+    border-style:none;
+    width: 80px;
+    height: 30px;
+    background-color: #5fb7ed;
+    color:white
+}
+/*--button Q1 Goals --*/
+.Goals {
+    border-radius: 10px 10px 10px 10px;
+    border-style: none;
+    width:90px;
+height: 30px;
+background-color: #9c72e4;
+color: white;
+
+}
+
+/*-- button recuiting--*/
+
+.recruiting{
+    border-radius:10px 10px 10px 10px;
+    color:white;
+    border-style:none;
+    background-color: #64c0a9;
+    width:90px;
+    height:30px;
+}
+/*-- button Mobile --*/
+.mobile{
+border-radius: 10px 10px 10px 10px;
+border-style:none;
+width:70px;
+height:30px;
+background-color:#f29e33;
+color:white;
+}
