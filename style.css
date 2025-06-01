@@ -47,6 +47,7 @@ font-family: "Roboto", sans-serif;
     background-color: white;
     border-radius:10px 10px 10px 10px;
     max-width: 2400px;
+    min-width: 785px;
     margin-left:160px;
     margin-top:50px;
     margin-right:160px;
@@ -134,3 +135,28 @@ font-family: "Roboto", sans-serif;
     height:30px;
 }
 
+.checkmark{
+    color:#c1e6dd;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border-style: solid;
+    padding-inline:4px;
+    border-color:#c1e6dd;
+
+    
+
+}
+
+.delete{
+    color:#f7c7c5;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border-style: solid;
+    padding-inline:6px;
+    border-color:#f7c7c5;
+   
+    
+
+}
