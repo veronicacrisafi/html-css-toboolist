@@ -33,9 +33,9 @@ font-family: "Roboto", sans-serif;
 
 #add-section{
     border-radius: 10px 10px 10px 10px;
-    border-color: darkgray;
+    border-color: #e6e9eb;
     border-style: solid;
-    color: darkgray;
+    color: #e6e9eb;
     background-color: white;
     width: 12%;
     height: 40px;
