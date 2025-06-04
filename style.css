@@ -137,10 +137,10 @@ font-family: "Roboto", sans-serif;
 }
 /*-- checkmark --*/
 .checkmark{
-    display: inline-block 15px;
+    display: inline-block;
     color:#c1e6dd;
-    width: 100px;
-    height: 100px;
+    width: 13px;
+    height: 19px;
     border-radius: 50%;
     border-style: solid;
     padding-inline:4px;
@@ -150,10 +150,10 @@ font-family: "Roboto", sans-serif;
 
 /*-- delete checkmark*/
 .delete{
-    display: inline-block 15px;
+    display: inline-block;
     color:#f7c7c5;
-    width: 100px;
-    height: 100px;
+    width: 10px;
+    height: 18px;
     border-radius: 50%;
     border-style: solid;
     padding-inline:6px;
