@@ -137,6 +137,7 @@ font-family: "Roboto", sans-serif;
 }
 /*-- checkmark --*/
 .checkmark{
+    display: inline-block 15px;
     color:#c1e6dd;
     width: 100px;
     height: 100px;
@@ -149,6 +150,7 @@ font-family: "Roboto", sans-serif;
 
 /*-- delete checkmark*/
 .delete{
+    display: inline-block 15px;
     color:#f7c7c5;
     width: 100px;
     height: 100px;
