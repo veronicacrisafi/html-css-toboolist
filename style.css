@@ -139,11 +139,10 @@ font-family: "Roboto", sans-serif;
 .checkmark{
     display: inline-block;
     color:#c1e6dd;
-    width: 13px;
-    height: 19px;
-    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
     border-style: solid;
-    padding-inline:4px;
     border-color:#c1e6dd;
 
 }
@@ -152,11 +151,10 @@ font-family: "Roboto", sans-serif;
 .delete{
     display: inline-block;
     color:#f7c7c5;
-    width: 10px;
-    height: 18px;
-    border-radius: 50%;
+    width: 20px;
+    height: 20px;
     border-style: solid;
-    padding-inline:6px;
+    text-align: center;
     border-color:#f7c7c5;
    }
 
