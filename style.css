@@ -74,6 +74,7 @@ font-family: "Roboto", sans-serif;
 
 .section-list{
     font-family: "Roboto", sans-serif;
+    
 }
 
 
@@ -155,7 +156,9 @@ font-family: "Roboto", sans-serif;
     border-style: solid;
     padding-inline:6px;
     border-color:#f7c7c5;
-   
-    
+   }
 
-}
+
+   .break-a-line{
+    margin-bottom: 15px;
+   }
