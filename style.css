@@ -74,6 +74,7 @@ font-family: "Roboto", sans-serif;
 
 .section-list{
     font-family: "Roboto", sans-serif;
+    vertical-align: 1px;
     
 }
 
@@ -144,6 +145,8 @@ font-family: "Roboto", sans-serif;
     text-align: center;
     border-style: solid;
     border-color:#c1e6dd;
+    border-radius:50%;
+    vertical-align:middle;
 
 }
 
@@ -154,11 +157,16 @@ font-family: "Roboto", sans-serif;
     width: 20px;
     height: 20px;
     border-style: solid;
-    text-align: center;
+    text-align:center;
     border-color:#f7c7c5;
+    border-radius:50%;
+    vertical-align:middle;
+    
+    
    }
 
 
    .break-a-line{
-    margin-bottom: 15px;
+    margin-bottom: 20px;
+    
    }
