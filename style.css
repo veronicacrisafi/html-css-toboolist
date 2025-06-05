@@ -25,6 +25,7 @@ font-family: "Roboto", sans-serif;
     height: 40px;
     font-family: "Roboto", sans-serif;
     border-style: none;
+    border: 1px solid #47adf1;
   
     
 }
@@ -148,6 +149,7 @@ font-family: "Roboto", sans-serif;
     border-radius:50%;
     vertical-align:middle;
     line-height: 20px;
+    font-weight: bold;
 
 }
 
